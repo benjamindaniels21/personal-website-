@@ -8080,7 +8080,7 @@ fieldset:disabled .btn {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;
+  color: #000, var(--bs-text-opacity) !important;
 }
 
 .text-secondary {
@@ -11812,4 +11812,12 @@ section.resume-section .resume-section-content {
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
+}
+
+.project-link {
+  font-size: 2rem;
+}
+
+.tech-icon {
+  font-size: 1.5rem;
 }
