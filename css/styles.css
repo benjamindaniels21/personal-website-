@@ -271,11 +271,11 @@ sup {
 }
 
 a {
-  color: #ffffff;
+  color: #3399ff;
   text-decoration: underline;
 }
 a:hover {
-  color: #974a2d;
+  color: #000;
 }
 
 a:not([href]):not([class]),
@@ -11780,7 +11780,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #3399ff;
 }
 
 .dev-icons {
