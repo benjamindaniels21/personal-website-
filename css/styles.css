@@ -11821,3 +11821,7 @@ section.resume-section .resume-section-content {
 .tech-icon {
   font-size: 1.5rem;
 }
+
+.demo-repo{
+  display: flex;
+}
